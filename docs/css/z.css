@@ -241,7 +241,7 @@ font-size: 1.1em;
 }
 
 #disqus_thread {
-    width: 50px;
-    margin-left: 50%;
-    margin-top: 50%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 15%;
   }
