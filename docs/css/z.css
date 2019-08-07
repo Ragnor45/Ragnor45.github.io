@@ -242,6 +242,8 @@ font-size: 1.1em;
 
 #disqus_thread {
     width: 50%;
-    margin-left: 70%;
+    margin-left: 20%;
     margin-top: 50%;
+    float: left;
+    height: 100%;
   }
