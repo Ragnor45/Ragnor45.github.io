@@ -9,7 +9,7 @@ html {height:100%}
 body{
      width: 100%;
     height: 100%;
-     background-color:#ffffff;
+     background-color:#eaeded;
      min-width: 50px;
       color:#000066;
      font-family: "Segoe UI", Arial, sans-serif;
@@ -57,12 +57,12 @@ header{
 height:5%;
 float:left;
 padding:1%;
-background-color:#000000;
+background-color:#af7ac5;
 margin-bottom: 10px;
 }
 header,footer{
   width: 100%;
-  background: #fff
+  background: #7d241c
   min-height: 50px;
   float: left;
 }
@@ -72,7 +72,7 @@ header,footer{
 	font-family: Segoe Print;
 }
 #logo span {
-	color: #0033ff;
+	color: #a9cce3;
 }
 #menuHead {
 	width: 60%;
@@ -108,7 +108,7 @@ margin-left: 20px;
 #war #leftCol #bigArticle {
   width: 78%;
   margin-left: 10%;
-  background-color: #66ffcc;
+  background-color: #eaeded;
   padding:1%;
   float: left;
 }
@@ -125,7 +125,7 @@ margin-left: 20px;
 #war #leftCol #bigArticle h2, #war #leftCol .article h2 {
   font-weight: normal;
   font-size: 1.4em;
-  color: #9999ff;
+  color: #1a5276;
   font-family: Comic Sans MS, sans-serif;
 }
 #war #leftCol #bigArticle h1, #war #leftCol .article h1 {
@@ -152,7 +152,7 @@ width: 100%;
 #war #leftCol .article{
   width: 40%;
   margin-left: 5%;
-  background-color: #66ffff;
+  background-color: #f9e79f;
   padding: 1%;
   float: left;
 }
@@ -178,7 +178,7 @@ footer{
 width: 100%;
 float: left;
 padding: 1%;
-background: #66ffcc;
+background: #d5dbdb;
 border-top: 2px solid silver;
 margin-top: none;
 }
